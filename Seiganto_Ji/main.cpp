@@ -29,12 +29,11 @@ GLuint loadTexture(Image* image) {
 #define FPS 120
 #define TO_RADIANS 3.14/180.0
 
-//  Anggota Kelompok X
-//  Nama (NIM)
-//  Nama (NIM)
-//  Nama (NIM)
-//  Nama (NIM)
-//  Nama (NIM)
+//  Anggota Kelompok 9
+//  Muhamad Riyanto (672021601)
+//  Muhamad Amirudin (672021601)
+//  Ragil Nike Pratistha (672019052)
+//  Dava Mahendra P (672019233)
 
 static int slices = 50;
 static int stacks = 50;
